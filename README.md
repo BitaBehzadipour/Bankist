@@ -108,14 +108,6 @@ git clone https://github.com/YourUsername/bankist-app.git
 
 ![Dashboard](images/dashboard.png)
 
-### Money Transfer
-
-![Transfer](images/transfer.png)
-
-### Loan
-
-![Loan](images/loan.png)
-
 ---
 
 ## 📚 What I Learned
